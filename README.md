@@ -57,7 +57,7 @@ Here, our graph is set up such that we have one parent node (Z), and two leaf no
 
 ![fork_nocond_gif](./img/fork_nocond_gif.gif) 
 
-Just like above, without any conditioning balls can flow freely from X to Y (and remember that they can go from Y to X as well!). How about when we condition on Z?
+Just like above, without any conditioning; balls can flow freely from X to Y (and remember that they can go from Y to X as well!). How about when we condition on Z?
 
 ![fork_gif](./img/fork_gif2.gif) 
 
